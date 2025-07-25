@@ -1,4 +1,3 @@
-![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanleyLegEnd1024) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley)
 
 最喜欢的视频！(Favorite video!)
