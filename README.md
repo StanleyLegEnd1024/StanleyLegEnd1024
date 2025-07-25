@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到Stanley的主页)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到Stanley的主页!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Stanley's+homepage!)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Stanley)
