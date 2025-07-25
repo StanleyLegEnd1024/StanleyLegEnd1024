@@ -7,6 +7,6 @@
 [《猫儿这个街舞》](https://tgfile.lixvyao.com/d/BAACAgQAAxkDAAIFlGiAqf0tpAs0oBcxBVc-sBmYIz9vAAJTGwACDV0AAVA0Uqnnux-iSDYE)
 [《阿门啊前的一颗葡萄树》](https://tgfile.lixvyao.com/d/BAACAgQAAxkDAAIFlWiAryEEXR3Hkz5cF8hkVLmehBtUAAJWGwACDV0AAVB5YTF3bzoSkDYE)
 
-十四岁，会c++等，分享一些自己的原创项目
+十四岁，会c++等，分享一些自己的原创项目，和为一些项目提交贡献。
 
 
