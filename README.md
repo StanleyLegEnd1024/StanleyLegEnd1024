@@ -1,5 +1,5 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanleyLegEnd1024)
-![trophy](https://github-profile-trophy.vercel.app/?username=StanleyLegEnd1024)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley)
+![trophy](https://github-profile-trophy.vercel.app/?username=Stanley)
 
 最喜欢的视频！(Favorite video!)
 [《猫儿这个街舞》](https://tgfile.lixvyao.com/d/BAACAgQAAxkDAAIFlGiAqf0tpAs0oBcxBVc-sBmYIz9vAAJTGwACDV0AAVA0Uqnnux-iSDYE)
